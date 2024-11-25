@@ -108,3 +108,4 @@ R2 score for the best model is 0.66. 66.0% data points are explained by the mode
 
 Further work with different data imputation strategy could improve the model performance. Feature selection methods could also help trim the features and improve model performance and interpretation. 
 
+Link to Python notebook is [here](https://github.com/shylajashah/used_car_pricing/blob/main/car_pricing.ipynb)
